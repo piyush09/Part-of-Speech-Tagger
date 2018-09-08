@@ -13,4 +13,5 @@ Code
 hmmlearn3.py is learning a hidden Markov model from the training data, and hmmdecode3.py is using the model to tag new data.
 
 hmmlearn3.py - This program learns a hidden Markov model, and write the model parameters to a file called hmmmodel.txt.
+
 hmmdecode3.py - This program reads the parameters of a hidden Markov model from the file hmmmodel.txt, tag each word in the test data, and write the results to a text file called hmmoutput.txt.
